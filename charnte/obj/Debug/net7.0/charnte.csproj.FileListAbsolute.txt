@@ -1,0 +1,14 @@
+C:\Users\Carlos\Desktop\Programación\charnte\bin\Debug\net7.0\charnte.exe
+C:\Users\Carlos\Desktop\Programación\charnte\bin\Debug\net7.0\charnte.deps.json
+C:\Users\Carlos\Desktop\Programación\charnte\bin\Debug\net7.0\charnte.runtimeconfig.json
+C:\Users\Carlos\Desktop\Programación\charnte\bin\Debug\net7.0\charnte.dll
+C:\Users\Carlos\Desktop\Programación\charnte\bin\Debug\net7.0\charnte.pdb
+C:\Users\Carlos\Desktop\Programación\charnte\obj\Debug\net7.0\charnte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\Programación\charnte\obj\Debug\net7.0\charnte.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Programación\charnte\obj\Debug\net7.0\charnte.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Programación\charnte\obj\Debug\net7.0\charnte.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Programación\charnte\obj\Debug\net7.0\charnte.dll
+C:\Users\Carlos\Desktop\Programación\charnte\obj\Debug\net7.0\refint\charnte.dll
+C:\Users\Carlos\Desktop\Programación\charnte\obj\Debug\net7.0\charnte.pdb
+C:\Users\Carlos\Desktop\Programación\charnte\obj\Debug\net7.0\charnte.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\Programación\charnte\obj\Debug\net7.0\ref\charnte.dll
